@@ -1,0 +1,5 @@
+Operation,PassengerId,Details
+Insert,1,"Braund, Mr. Owen Harris"
+Delete,2,
+Update,3,"Heikkinen, Miss. Laina"
+...
